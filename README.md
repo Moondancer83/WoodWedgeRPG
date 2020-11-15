@@ -27,6 +27,7 @@ Minden ötletet, segítséget szívesen veszek. Ezeket előre is köszönöm.
 
 ## Tartalom
 - Rendszermag (Core.md)
+- Példa játék és karakterek (Examples.md)
 
 ## Verzió történet
 
