@@ -3,7 +3,7 @@ Szabálykönnyű szerepjáték motor
 
 v1.3.3
 
-## Bevezető 2013-ból
+## Bevezető
 Régóta szerepjátékozom, sőt mi több majdnem ugyan annyi ideje foglalkozom játékfejlesztéssel is. Persze egy negyedikes kisdiák és barátja kezdeményezése nem valami nagy kunszt, de volt ilyen is. (Régi szép idők!)
 
 
