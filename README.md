@@ -1,7 +1,7 @@
 # WoodWedgeRPG
 Szabálykönnyű szerepjáték motor
 
-v1.3.2
+v1.3.3
 
 ## Bevezető 2013-ból
 Régóta szerepjátékozom, sőt mi több majdnem ugyan annyi ideje foglalkozom játékfejlesztéssel is. Persze egy negyedikes kisdiák és barátja kezdeményezése nem valami nagy kunszt, de volt ilyen is. (Régi szép idők!)
@@ -39,6 +39,8 @@ Hátterek
 Nem sebzés jellegű hatások finomhangolása
 ### 1.3.2
 Olvashatóság javítása
+### 1.3.3
+Karakterfejlődés példa kiegészítése
 
 ## Fejlesztők
 - Kalinovits Márk (Moondancer) kalee.mark@gmail.com

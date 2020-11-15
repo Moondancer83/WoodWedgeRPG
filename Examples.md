@@ -79,13 +79,19 @@ A varázshasználó nem törődik többet a pórul járt vetélytárssal, inkáb
 
 
 ## Játékon kívüli történések
-_<< A játékülés végén a következő értékek fejlődésére van lehetőség:
+A játékülés végén a következő értékek fejlődésére van lehetőség:
 
 Harrass íjászat és vívás képzettsége, valamint Crocko okkult jellemzője növekedhet.
 
-Harrass játékosa próbát tesz. Íjászat, alsó küszöb Ügyesség (4) + Íjászat (3), dobás 6. Ez most nem sikerült. Újabb próba ezúttal a vívásra. Alsó küszöb Ügyesség (4) + Vívás (1), dobás 4. Hát ez sem.
+Harrass játékosa próbát tesz. __Íjászat__, alsó küszöb: Ügyesség (4) + Íjászat (3) = 7, dobás: 6. Ez most nem sikerült. 
 
-Crocko játékosa szintén megpróbálkozik a képzettség javításával. Alsó küszöb Észjárás (3) + Okkult (4), dobás 8 siker. Crocko Okkult képzettsége 5-re emelkedik. >>_
+Újabb próba ezúttal a __vívásra__. Alsó küszöb: Ügyesség (4) + Vívás (1) = 5, dobás: 4. Hát ez sem.
+
+Crocko játékosa szintén megpróbálkozik a képzettség javításával. Alsó küszöb Észjárás (3) + Okkult (4) = 7, dobás: 8, siker. Crocko Okkult képzettsége 5-re emelkedik.
+
+Mivek Crocko sikeresen fejlesztette __Okkult__ képzettségét ezlrt jogosut az __Észjárás__ képesség fejlesztésére is. Alső köszöb: 5 + Észjárás (3) = 8. Dobás: 9, siker. Crocko Észjárás értéke 4-re növekszik.
+
+---
 
 # Karakterek
 
