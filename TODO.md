@@ -14,6 +14,7 @@
 - [ ] Korábbi rendszerek fegyvereinek és vértjeinek átültetése
 - [ ] Összetett varázslatok
 - [ ] Rúnamágia
+- [ ] Hátterek
 - [ ] Minta karakterek (iskolák)
 - [ ] Minta varázslatok
 - [ ] Korábbi rendszerek varázslatainak átültetése
