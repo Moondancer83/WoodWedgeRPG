@@ -26,8 +26,8 @@ Az ötletelést _2013. május 28_-án kezdtem, nem sokkal a MAGUS 5.0 (Lunir) be
 Minden ötletet, segítséget szívesen veszek. Ezeket előre is köszönöm.
 
 ## Tartalom
-- Rendszermag (Core.md)
-- Példa játék és karakterek (Examples.md)
+- [Rendszermag](./Core.md)
+- [Példa játék és karakterek](./Examples.md)
 
 ## Verzió történet
 
