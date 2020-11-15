@@ -1,0 +1,2 @@
+# WoodWedgeRPG
+Szabálykönnyű szerepjáték motor
